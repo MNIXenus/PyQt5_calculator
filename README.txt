@@ -1,0 +1,2 @@
+1) При первом запуске: запустить install_requirements_windows.bat (для Windows)/install_requirements_xnix.sh (для unix-like систем).
+2) Запустите скриптом run_windows.bat (для Windows)/run_xnix.sh (для unix-like систем).
