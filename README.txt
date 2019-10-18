@@ -1,5 +1,5 @@
 --ENG--
-Calculator in Python+PyQt5. Written ti try PyQt. Dunno, why would you need a calculator weighing about 120 MB with all the dependencies, but just in case:
+Calculator in Python+PyQt5. Written to try PyQt. Dunno, why would you need a calculator weighing about 120 MB with all the dependencies, but just in case:
 1) First launch: run install_requirements_windows.bat (for Windows)/install_requirements_xnix.sh (for unix-like OS).
 2) Run by script run_windows.bat (for Windows)/run_xnix.sh (for unix-like OS).
 --ENG--
